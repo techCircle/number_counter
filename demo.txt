@@ -3,3 +3,44 @@ this is a demo file
 
 counting from 1  to 10
 1 ,2 , 3 ,4 ,5, 6, 7, 8, 9,10
+
+
+In the realm of code and dreams, where pixels dance and minds ignite,
+There lies a place of learning, where talents take their flight.
+TechCircle, the bootcamp bold, a sanctuary for the tech-savvy soul,
+Where novices become masters, their skills reaching a higher goal.
+
+From the very first line of code, a journey begins to unfold,
+Guided by mentors, wise and kind, whose expertise is gold.
+In this hallowed circle, a symphony of keystrokes fills the air,
+As aspiring coders unlock the doors to a future beyond compare.
+
+Day by day, they delve into algorithms, logic, and syntax,
+Unraveling the mysteries, conquering bugs with their steadfast acts.
+From HTML's humble embrace to the complexities of JavaScript's reign,
+They craft digital landscapes, where innovation leaves a vibrant stain.
+
+With every line, a world awakens, brought to life by their skillful hand,
+Websites bloom and apps take flight, fulfilling users' demands.
+They traverse the lands of Python, Java, and Ruby, learning their tongues,
+Building bridges between ones and zeros, where boundless potential throngs.
+
+Together, in this bootcamp's haven, a community of learners unite,
+Bound by a common passion, their enthusiasm shining bright.
+In collaboration, they find strength, pooling knowledge to surmount,
+Challenges that lie ahead, as they climb the coding's mighty mount.
+
+TechCircle, a sacred space where dreams and ambition intertwine,
+A catalyst for growth, where careers take a meteoric incline.
+As the curriculum unfolds, they strive to master the trade,
+For within these sacred walls, true coders are made.
+
+Beyond the bootcamp's borders, a world awaits their newfound skill,
+Opportunities abound, their purpose they shall fulfill.
+With TechCircle's emblem on their chests, they venture out with pride,
+Ready to conquer challenges, with their expertise as their guide.
+
+So let us raise a toast to TechCircle, where the coding journey thrives,
+Where aspiring minds are nurtured, where innovation survives.
+May it forever be a beacon, guiding seekers towards their dreams,
+And may its legacy inspire, like a symphony of digital themes.
